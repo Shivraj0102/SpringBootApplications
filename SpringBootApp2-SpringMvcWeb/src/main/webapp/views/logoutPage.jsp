@@ -8,5 +8,8 @@
 </head>
 <body>
 Thanks <b>${uname}</b> for visiting our <b>${appName}</b> app, Please come back again.
+<br>
+<br>
+<a href="http://localhost:8080/home">home page</a>
 </body>
 </html>

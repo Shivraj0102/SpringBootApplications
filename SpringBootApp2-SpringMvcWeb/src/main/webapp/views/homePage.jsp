@@ -11,6 +11,12 @@ Welcome to my website.
 <br>
 <br>
 <br>
-<a href="http://localhost:8080/login?name=">Click here for login</a>
+<form action="login">
+	<label>Please Enter Username:</label>
+	<input type="text" name="name"/>
+	<input type="submit"/>
+</form>
+<!-- <input type="text" name="name">
+<a href="http://localhost:8080/login?name=">Click here for login</a> -->
 </body>
 </html>
